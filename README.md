@@ -10,3 +10,5 @@ This video-game was made out of 5 mini games inspired by popular old games like 
 Each mini game was created in a separate C++ library with its classes and objects that then were imported into the main cpp game file that connected all of them and added some other extra functionalities like lighting and intro/outro screens. The games took use of all the electronic feautures avalaiable (sound effects, screen restrictions, storage using a SD card, lightning, a potentiometer, a joystick, several buttons and battery saving spenses). 
 
 This was one of my first programming big projects and the one that made me decide to focus more on software development as I really loved and enjoyed it. 
+
+![Photo of a controller with a screen, joystick, lights and much more](https://github.com/Randulfe/The-Children-of-Cronos/blob/master/20170328_203310.jpg) 
