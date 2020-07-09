@@ -1,7 +1,7 @@
 # The-Children-of-Cronos
 This was a project I made in my second year of Mechtronics & Robotics Engineering degree as part of a module of embedded systems. The purpose was to create a piece of software (most likely a game) to interact with the electronics we created in our lab (image below). 
 
-![Photo of a controller with a screen, joystick, lights and much more](https://github.com/Randulfe/The-Children-of-Cronos/blob/master/20170511_114029.jpg) 
+<img src="https://github.com/Randulfe/The-Children-of-Cronos/blob/master/20170511_114029.jpg" width="300">
 
 The microcontroller we used was a **FRDM-K64F** from **NXP** and the code was all written in **C++** using the online IDE of mbed that I also used for online source control.
 
@@ -11,7 +11,7 @@ Each mini game was created in a separate C++ library with its classes and object
 
 This was one of my first programming projects and the one that made me decide to focus more on software development as I really loved and enjoyed it. 
 
-![Photo of a controller with a screen, joystick, lights and much more](https://github.com/Randulfe/The-Children-of-Cronos/blob/master/20170328_203310.jpg) 
+<img src="https://github.com/Randulfe/The-Children-of-Cronos/blob/master/20170328_203310.jpg" width="300">
 
 ### Instructions
 
